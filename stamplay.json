@@ -1,0 +1,10 @@
+{
+  "appId": "colexsys",
+  "apiKey": "d2ff30aedefaa9ccb74085ec0ac483beca8217b21fbd1d7e3f423300c1819a65",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
